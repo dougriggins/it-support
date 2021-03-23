@@ -4,13 +4,9 @@ Notes on software, system utilities, commands, and reminders
 
 ## Software
 
----
-
 - Notepad++ (https://notepad-plus-plus.org/)
 
 ## System utilities
-
----
 
 - General Admin tools reference (https://docs.microsoft.com/en-us/windows/client-management/administrative-tools-in-windows-10)
 - Regedit
