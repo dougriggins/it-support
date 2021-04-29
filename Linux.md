@@ -4,7 +4,7 @@ Notes on software, system utilities, commands, and reminders
 
 ## Software
 
--
+- `.deb` use `dpkg` command CLI
 
 ## System utilities
 
