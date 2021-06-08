@@ -18,6 +18,11 @@ Notes on software, system utilities, commands, and reminders
   - `chmod, chown`
 - User Management
   - `passwd`
+- File system management
+  - `lsblk` view block devices
+  - `df -h` display amount of space available on file system
+  - `sudo fdisk -l` dislpay partition information (-l lists partitions in the block)
+  - `mkdfs` create filesystem in linux
 
 ## Remember!
 
