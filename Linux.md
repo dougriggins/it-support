@@ -2,6 +2,13 @@
 
 Notes on software, system utilities, commands, and reminders
 
+## Distributions
+
+- [Kali Linux](https://www.kali.org/) Penetration testing distribution
+- [Ubuntu](https://ubuntu.com/) Server/Workstation (popular)
+- [CentOS](https://www.centos.org/) Free version of enterprise RedHat
+- [RedHat](https://www.redhat.com/en) Enterprise server/workstation
+
 ## Software
 
 - `.deb` use `dpkg` command CLI
@@ -23,6 +30,12 @@ Notes on software, system utilities, commands, and reminders
   - `df -h` display amount of space available on file system
   - `sudo fdisk -l` dislpay partition information (-l lists partitions in the block)
   - `mkdfs` create filesystem in linux
+- Process/Performance Management
+  - `ps` display snapshot of current processes
+  - `kill` command to kill processes
+  - `top` overall system performance view
+  - `uptime` system reliability and load average
+  - `htop` interactive system performance view
 
 ## Remember!
 
