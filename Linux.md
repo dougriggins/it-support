@@ -30,12 +30,20 @@ Notes on software, system utilities, commands, and reminders
   - `df -h` display amount of space available on file system
   - `sudo fdisk -l` dislpay partition information (-l lists partitions in the block)
   - `mkdfs` create filesystem in linux
+  - `dd` copy files (or whole file system)
 - Process/Performance Management
   - `ps` display snapshot of current processes
   - `kill` command to kill processes
   - `top` overall system performance view
   - `uptime` system reliability and load average
   - `htop` interactive system performance view
+- Others
+  - `scp` openSSH secure file copy
+  - `tail` view file in realtime
+  - `grep` search through for specific items
+  - `less` display file with up/down keys to navigate through it
+  - `more` display whole file at once, no movement using up/down keys
+  - `which` used to locate an executable
 
 ## Remember!
 

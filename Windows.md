@@ -30,6 +30,7 @@ Notes on software, system utilities, commands, and reminders
   - `taskkill` : [Link](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/taskkill)
   - `signal` process signals [Link](https://docs.microsoft.com/en-us/cpp/c-runtime-library/reference/signal?view=msvc-160)
 - PowerShell
+  - [Microsoft Dev Blog](https://devblogs.microsoft.com/powershell/)
   - [Cheat sheet](Comparitech-Powershell-cheatsheet.pdf)
   - `Get-Process` : [Link](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-process?view=powershell-7.1)
 - CLI switches for installation packages [Link](https://docs.microsoft.com/en-US/troubleshoot/windows-client/deployment/command-switches-supported-by-self-extractor-package)
